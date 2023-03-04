@@ -19,5 +19,5 @@
 
 <h2>⚙️&nbsp;&nbsp; Analytics </h2>
 
-<img width="444em" src="https://github-readme-stats.vercel.app/api?username=eduardofariasdev&show_icons=true&theme=vue" alt="Eduardo's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofariasdev&layout=compact&theme=vue" alt="Eduardo's most languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eduardofariasdev&show_icons=true&theme=vue" alt="Eduardo's stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofariasdev&layout=compact&theme=vue" alt="Eduardo's most languages"/>
